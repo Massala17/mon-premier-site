@@ -7,7 +7,9 @@
 #  Vous allez le compléter petit à petit, exercice après exercice.
 #  Les consignes sont dans le dossier "exercices/".
 # ---------------------------------------------------------------
-from flask import Flask, render_template, request, redirect, abort
+from flask import Flask, render_template, request, redirect, abort, jsonify
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 app = Flask(__name__)
 
