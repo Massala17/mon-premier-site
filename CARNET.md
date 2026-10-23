@@ -146,15 +146,15 @@ la favicon (/favicon.ico)
 
 1. Quelle est la différence entre une erreur `4xx` et une erreur `5xx` ? Qui est « fautif » dans chaque cas ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse : Une erreur 4xx vient du client (navigateur ou utilisateur). Une erreur 5xx vient du serveur.
 
 2. Comment fonctionne une redirection ? Qui fait la deuxième requête : le serveur ou le navigateur ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse : Le serveur indique une nouvelle adresse au navigateur. C'est ensuite le navigateur qui envoie une deuxième requête vers cette adresse.
 
 3. Donnez un exemple de situation où un vrai site utilise une redirection.
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ Quand on se connecte à un site, on est souvent redirigé vers la page d'accueil ou son espace personnel après la connexion.
 
 ---
 
