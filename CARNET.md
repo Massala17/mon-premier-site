@@ -162,19 +162,19 @@ la favicon (/favicon.ico)
 
 1. Citez trois informations que le serveur connaît sur vous, sans que vous ayez rien rempli.
 
-   > _Ma réponse :_ 
+   > _Ma réponse : Votre adresse IP, votre navigateur et votre langue (Accept-Language).
 
 2. À quoi peut servir l'en-tête `Accept-Language` pour un site comme Wikipédia ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :À afficher le site dans la langue préférée de l'utilisateur.
 
 3. Dans l'Access log, retrouvez une requête qui a reçu un code `404`. Quelle page était demandée ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :La page demandée est celle qui apparaît avec le code 404 dans votre Access log (souvent /favicon.ico ou une URL inexistante).
 
 4. Après cet exercice, que pensez-vous de la notion de « navigation anonyme » ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :Elle n'est pas totalement anonyme, car le serveur reçoit quand même plusieurs informations sur le visiteur (IP, navigateur, langue, etc.).
 
 ---
 
