@@ -22,7 +22,7 @@ app = Flask(__name__)
 # ---------------------------------------------------------------
 @app.get("/")
 def accueil():
-    return "Bienvenue sur le site de massala 🚀"
+    return render_template("accueil.html")
 
 @app.get("/presentation")
 def presentation():
