@@ -182,15 +182,15 @@ la favicon (/favicon.ico)
 
 1. Quelle est la différence entre une page HTML et une réponse JSON ? À qui chacune est-elle destinée ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :Une page HTML est destinée au navigateur pour afficher une page web. Une réponse JSON est destinée aux programmes ou au JavaScript.
 
 2. Dans la page `/horloge`, quel code s'exécute sur le **serveur** et quel code s'exécute dans le **navigateur** ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :Le code Python s'exécute sur le serveur. Le code JavaScript s'exécute dans le navigateur.
 
 3. Citez une application de votre téléphone qui, selon vous, utilise une API. Quelles données échange-t-elle ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :Par exemple Météo : elle échange la position de l'utilisateur et les données météorologiques (température, pluie, vent, etc.).
 
 ---
 
