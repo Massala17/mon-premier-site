@@ -191,6 +191,7 @@ la favicon (/favicon.ico)
 3. Citez une application de votre téléphone qui, selon vous, utilise une API. Quelles données échange-t-elle ?
 
    > _Ma réponse :Par exemple Météo : elle échange la position de l'utilisateur et les données météorologiques (température, pluie, vent, etc.).
+   > Bonus :Quand on tape une adresse dans un navigateur, celui-ci envoie une requête à un serveur qui répond en renvoyant les fichiers nécessaires (HTML, CSS, images, etc.), puis le navigateur les affiche sous forme de page web.
 
 ---
 
