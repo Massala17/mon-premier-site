@@ -129,15 +129,16 @@ la favicon (/favicon.ico)
 
 1. Quelle est la différence visible entre GET et POST ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :Avec GET, les données apparaissent dans l'URL. Avec POST, elles n'apparaissent pas dans l'URL.
 
 2. Pour un formulaire de **recherche**, quelle méthode choisiriez-vous ? Et pour un formulaire de **connexion avec mot de passe** ? Pourquoi ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :GET pour une recherche, car on peut partager l'URL.
+ → POST pour une connexion, afin que le mot de passe ne soit pas affiché dans l'URL.
 
 3. Les données envoyées en POST sont-elles vraiment « secrètes » ? (Pensez à ce que vous avez vu dans l'onglet Réseau.)
 
-   > _Ma réponse :_ 
+   > _Ma réponse :Non, elles ne sont pas visibles dans l'URL, mais elles peuvent toujours être vues dans les outils réseau du navigateur ou par le serveur.
 
 ---
 
