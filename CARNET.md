@@ -113,15 +113,15 @@ la favicon (/favicon.ico)
 
 1. Dans l'URL `https://www.youtube.com/results?search_query=chat`, quel est le nom du paramètre ? Quelle est sa valeur ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :Le paramètre est search_query et sa valeur est chat.
 
 2. Pourquoi le serveur plante-t-il avec `a=bonjour` ? Que faudrait-il faire pour l'éviter ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :Le serveur plante parce qu'il attend un nombre alors que "bonjour" est du texte. Il faut vérifier les données reçues avant de les utiliser.
 
 3. Pourquoi est-il dangereux d'afficher **tel quel** ce que l'utilisateur envoie ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :Parce qu'un utilisateur pourrait envoyer du code malveillant ou du contenu indésirable qui pourrait perturber le site.
 
 ---
 
